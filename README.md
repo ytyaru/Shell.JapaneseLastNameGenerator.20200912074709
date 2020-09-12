@@ -71,7 +71,7 @@ cd Shell.JapaneseLastNameGenerator.20200912074709/src
 ./jln.sh
 ```
 
-* [help.txt](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseLastNameGenerator.20200912074709/src/doc/help.txt)
+* [help.txt](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseLastNameGenerator.20200912074709/master/src/doc/help.txt)
 
 ## Sub commands
 
